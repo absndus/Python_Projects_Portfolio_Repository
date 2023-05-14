@@ -17,8 +17,8 @@
 
 <h2> 3. <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Project_3_Medical_Insurance_Control_Flow.py">Project 3 Medical Insurance Control Flows Script</a></h2>
 <br>
-<a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Project_3_Medical_Insurance_Control_Flow.py">
-  <image src="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Project_3_Medical_Insurance_Control_Flow.py" alt = "Screenshot">
+<a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_3_US_Medical_Insurance_Decisions.png">
+  <image src="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_3_US_Medical_Insurance_Decisions.png" alt = "Screenshot">
     </a>
 <p><b>Description:</b> This python script goes through the process of using custom functions and else-if statements to calculate the insurance premiums for a user based on the user's inputs.
 </p>
