@@ -47,6 +47,6 @@
   
 <h2> 7. <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Project_7_Fridas_Museum_Advanced_Loops.py">Project 7 Fridas Museum Paintings Lists and Comprehension Lists Script</a></h2>
 <br>
-<a href="https://github.com/absndus/Python_Programs_Portfolio/blob/master/program_7_list_screenshot.png">
-  <image src="https://github.com/absndus/Python_Programs_Portfolio/blob/master/program_7_list_screenshot.png" alt = "Screenshot for Program 7 Python List at Fridas Painting Gallery"></a> 
+<a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/program_7_Fridas_Museum_Screenshot.png">
+  <image src="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/program_7_Fridas_Museum_Screenshot.png" alt = "Screenshot"></a> 
   <p><b>Description:</b> This is unlike the previous projects since this project was an open-ended project. In this scenario, I have been hired to work on a retrospective of Frida Kahlo’s work at a major museum in Mexico. My job was to put together the audio tour, but in order to do that, I needed to create a list of each painting featured in the exhibit, the date it was painted, and its spot on the tour.
