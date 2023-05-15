@@ -50,3 +50,9 @@
 <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/program_7_Fridas_Museum_Screenshot.png">
   <image src="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/program_7_Fridas_Museum_Screenshot.png" alt = "Screenshot"></a> 
   <p><b>Description:</b> This is unlike the previous projects since this project was an open-ended project. In this scenario, I have been hired to work on a retrospective of Frida Kahlo’s work at a major museum in Mexico. My job was to put together the audio tour, but in order to do that, I needed to create a list of each painting featured in the exhibit, the date it was painted, and its spot on the tour.
+
+<h2> 8. <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Project_8_Medical_Insurance_PStrings.py">Project 8 Medical Insurance Using Python Strings and For-Loops Script</a></h2>
+<br>
+<a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_8_US_Medical_Insurance_Python_Lists_Loops.png">
+  <image src="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_8_US_Medical_Insurance_Python_Lists_Loops.png" alt = "Screenshot"></a>
+  <p><b>Description:</b> This project script goes through the creation of the Medical Inusrance cost estimator using Python Strings and manipulations of data to make the information presentable to users.</p> 
