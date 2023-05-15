@@ -56,3 +56,9 @@
 <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_8_US_Medical_Insurance_Python_Lists_Loops.png">
   <image src="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_8_US_Medical_Insurance_Python_Lists_Loops.png" alt = "Screenshot"></a>
   <p><b>Description:</b> This project script goes through the creation of the Medical Inusrance cost estimator using Python Strings and manipulations of data to make the information presentable to users.</p> 
+  
+<h2> 9. <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Project_9_Decipher_Vishal_Message_Challenge.py">Project 9 Deciphering and Encoding Messages Script</a></h2>
+<br>
+<a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_9_Deciphering_Vishal_Messages_Encoding.png">
+  <image src="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_9_Deciphering_Vishal_Messages_Encoding.png" alt = "Screenshot"></a>
+  <p><b>Description:</b> This project script goes through the process of deciphering Vishal's message using various Python skills.</p>
