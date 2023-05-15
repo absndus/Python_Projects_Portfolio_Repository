@@ -75,6 +75,7 @@ for record in medical_records_clean:
 
 #Create a variable.
 total_bmi = 0
+total_insurance_cost = 0
 
 #Create a for-loop that iterates through the bmis variable and tally the total using sum.
 for bmi in bmis:
@@ -82,6 +83,16 @@ for bmi in bmis:
 
 #Find the mean of the total_bmi.
 average_bmi = total_bmi/len(bmis)
+
+#Create a for-loop that iterates through the insurance_costs variable and tally the tatal using sum.
+insurance_costs = [float(cost.replace('$','')) for cost in insurance_costs]
+print(insurance_costs)
+
+for cost in insurance_costs:
+    total_insurance_cost += float(cost)
+
+#Find the mean of the total_insurance_cost variable.
+avg_insurance_costs = total_insurance_cost/len(insurance_costs)
 
 #Print out following info to screen.
 print("Here is the raw data: \n" + medical_data + "\n")
@@ -96,3 +107,4 @@ print(f"The BMIs on the record is, {bmis}")
 print(f"The insurance cost for each record is, {insurance_costs} \n")
 print(f"Total BMI for the medical records is, {total_bmi}.")
 print(f"The average BMI for the medical records is, {average_bmi}")
+print(f"The average medical insurance premium per individual is, ${avg_insurance_costs}.")
