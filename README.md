@@ -68,3 +68,9 @@
 <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_10_Name_Alphabet_Block_Initializer.png">
   <image src="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_10_Name_Alphabet_Block_Initializer.png" alt = "Screenshot"></a>
   <p><b>Description:</b> This project script goes through the process of allow the user to input their full first, middle, and last name and the script goes through the function to split the string into the three words; which in turns converts into single character strings to be compared and output the proper alpha-blocks to the console.</p>
+
+<h2> 11. <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Project_11_Magic_8_Ball.py">Project 11 Magic 8-Ball Randomizer Script</a></h2>
+<br>
+<a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_11_Magic_8_Ball.png">
+  <image src="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_11_Magic_8_Ball.png" alot = "Screenshot"></a>
+  <p><b>Description:</b> This project script asks the user their name and spits out the answer to their question.</p>
