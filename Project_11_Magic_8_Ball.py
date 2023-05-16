@@ -9,7 +9,7 @@ import random
 
 #Create variables that were needed in the script.
 name = input("Enter your first and last name: ")
-question = "Do you enjoy coding?"
+question = input("Enter a true and false question: ")
 answer = ""
 random_number = random.randint(1,9)
 
