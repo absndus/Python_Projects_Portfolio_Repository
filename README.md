@@ -72,5 +72,11 @@
 <h2> 11. <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Project_11_Magic_8_Ball.py">Project 11 Magic 8-Ball Randomizer Script</a></h2>
 <br>
 <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_11_Magic_8_Ball.png">
-  <image src="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_11_Magic_8_Ball.png" alot = "Screenshot"></a>
+  <image src="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_11_Magic_8_Ball.png" alt = "Screenshot"></a>
   <p><b>Description:</b> This project script asks the user their name and spits out the answer to their question.</p>
+
+<h2> 12. <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Project_12_Shipment_Estimation_Calculator.py">Project 12 Shipment Calculator Script</a></h2>
+<br>
+<a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_12_Shipment_Calculator.png">
+  <image src="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_12_Shipment_Calculator.png" alt = "Screenshot"></a>
+  <p><b>Description:</b> This project script goes through the process of taking the weight of the package and determine the cheapest way to ship that package using Sal's Shippers, a fictional company.</p>
