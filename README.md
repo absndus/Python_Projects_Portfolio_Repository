@@ -62,3 +62,9 @@
 <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_9_Deciphering_Vishal_Messages_Encoding.png">
   <image src="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_9_Deciphering_Vishal_Messages_Encoding.png" alt = "Screenshot"></a>
   <p><b>Description:</b> This project script goes through the process of deciphering Vishal's message using various Python skills.</p>
+
+<h2> 10. <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Project_10_Make_Initials.py">Project 10 Name Initializer Block Output Script</a></h2>
+<br>
+<a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_10_Name_Alphabet_Block_Initializer.png">
+  <image src="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_10_Name_Alphabet_Block_Initializer.png" alt = "Screenshot"></a>
+  <p><b>Description:</b> This project script goes through the process of allow the user to input their full first, middle, and last name and the script goes through the function to split the string into the three words; which in turns converts into single character strings to be compared and output the proper alpha-blocks to the console.</p>
