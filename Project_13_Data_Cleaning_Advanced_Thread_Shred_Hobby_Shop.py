@@ -180,12 +180,23 @@ for i in range(3, len(daily_sales_replaced_9), 4):
 
 #Zip the variable lists together; customers, sales, and dates.
 daily_sales_cleaned = zip(customers, sales, dates)
-print(list(daily_sales_cleaned))
 
 #To view the individual item in the list. Convert the zip list to list.
 items = [list(i) for i in zip(customers, sales, dates)]
-print(items[1])
+print("The chosen index was,", items[2],"\n")
 
 #Convert the new cost list variable into a float data type from string by 2 decimal places.
 sales_total = "{:.2f}".format(sum(list(map(float, sales)))) #Max was up to two decimal point.
-print(f"The total transaction total for the Shred Hobby Shop is, ${sales_total}.")  #Can confirm that the list has been converted and totaled up to $1498.74 for all of the transaction.
+print(f"The total transaction total for the Shred Hobby Shop is, ${sales_total}.\n")  #Can confirm that the list has been converted and totaled up to $1498.74 for all of the transaction.
+
+#Count the numbers of rows per splitted variable lists; customers, dates, sales, thread_solds.
+customers_total = len(customers)
+sale_num_total = len(sales)
+item_row_total = len(thread_sold)
+date_row_total = len(dates)
+
+#Count the numberes of observation per cleaned attribute lists.
+print(f"The total customers_total observations is, {customers_total}.")
+print(f"The total item_row_total observations is, {item_row_total}.")
+print(f"The total sale_num_total observations is, {sale_num_total}.")
+print(f"The total date_row_total observations is, {date_row_total}.")
