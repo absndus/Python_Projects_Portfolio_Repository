@@ -83,5 +83,6 @@
 
 <h2> 13. <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Project_13_Data_Cleaning_Advanced_Thread_Shred_Hobby_Shop.py">Project 13 Advance Data Cleaning for a Hobby Shop Script</a></h2>
 <br>
-<a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_13_Advanced_Data_Cleaning_Hobby_Shop.png" alt = "Screenshot"></a>
+<a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_13_Advanced_Data_Cleaning_Hobby_Shop.png">
+  <image src="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_13_Advanced_Data_Cleaning_Hobby_Shop.png" alt = "Screenshot"></a>
   <p><b>Description:</b> This project script is my professional data cleaning script that shows off my data cleaning skills and mathematics skills to understand the transactions provided by the fictitious company, Thread Shop Hobby store.</p>
