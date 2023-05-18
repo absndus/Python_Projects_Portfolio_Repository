@@ -92,3 +92,9 @@
 <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_14_Scrabble_Game_Dictionary.png">
   <image src="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_14_Scrabble_Game_Dictionary.png" alt="Screenshot"></a>
   <p><b>Description:</b> This project script goes through the process of utilizing the provided variable lists, letters and points and convert them to dictionary list for further dictionary manipulations.</p>
+  
+<h2> 15. <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Project_15_Recovery_Comp_Peeps.py">Project 15 Recovery Compromise Users Script</a></h2>
+<br>
+<a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_15_Recovery_Comp_Peeps.png">
+  <image src="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_15_Recovery_Comp_Peeps.png" alt="Screenshot"></a>
+  <p><b>Description:</b> This project script goes through the steps of managing comp_user csv list and write various json files to the manager about the security issue.</p>
