@@ -98,3 +98,9 @@
 <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_15_Recovery_Comp_Peeps.png">
   <image src="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_15_Recovery_Comp_Peeps.png" alt="Screenshot"></a>
   <p><b>Description:</b> This project script goes through the steps of managing comp_user csv list and write various json files to the manager about the security issue.</p>
+
+<h2> 16. <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Project_16_Hurricane_Analysis.py">Project 16 Hurricanes Sample Analysis Script</a></h2>
+<br>
+<a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_16_Hurricanes_Analysis.png">
+  <image src="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_16_Hurricanes_Analysis.png" alt="Screenshot"></a>
+  <p><b>Description:</b> This project script goes through the process of importing the hurricane data sets, perform pre-cleaning, setting-up variab lists, functions, and then output the proper information into the console so key information about the most affected areas, deaths, and damages would be manifested. 
