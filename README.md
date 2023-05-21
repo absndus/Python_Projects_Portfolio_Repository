@@ -1,35 +1,5 @@
 # Python Projects Portfolio Repository
 
-<a name="BACKTOTOP">Index</a>
-<ul>
-  <li><a href="#COMPLIANCE">Compliance Courses</a></li>
-  <li><a href="#DEALERTRAINING">Dealer Training</a></li>
-  <li><a href="#FUNCTIONALAREA">Functional Training Courses</a></li>
-<br>
-<h1>
-  <a name="COMPLIANCE">Compliance</a>
-</h1>
-<br>
-This will be the message for Compliance courses.
-<br>
-<a href="#BACKTOTOP">Return to top index</a>
-<br>
-<h1>
-  <a name="DEALERTRAINING">Dealer Training</a>
-</h1>
-<br>
-This will be the message for Dealer Training.
-<br>
-<a href="#BACKTOTOP">Return to top index</a>
-<br>
-<h1>
-  <a name="FUNCTIONALAREA">Functional Training Courses</a>
-</h1>
-<br>
-This will be the message for courses by Functional Area.
-<br>
-<a href="#BACKTOTOP">Return to top index</a>
-
 <h2>1. <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Project_1_Medical_Insurance.py">Project 1 Medical Insurance Script</a></h2>
 <br>
 <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_2_US_Medical_Insurance_Script.png">
