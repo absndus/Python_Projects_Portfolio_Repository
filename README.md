@@ -104,3 +104,9 @@
 <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_16_Hurricanes_Analysis.png">
   <image src="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_16_Hurricanes_Analysis.png" alt="Screenshot"></a>
   <p><b>Description:</b> This project script goes through the process of importing the hurricane data sets, perform pre-cleaning, setting-up variab lists, functions, and then output the proper information into the console so key information about the most affected areas, deaths, and damages would be manifested. 
+
+<h2> 17. <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Project_17_Medical_Insurance_Python_Dictionaries.py">Project 17 Medical Insurances Using Python Dictionaries Script</a></h2>
+<br>
+<a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_16_Hurricanes_Analysis.png">
+  <image src="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_16_Hurricanes_Analysis.png" alt="Screenshot"></a>
+  <p><b>Description:</b> This Python project goes over utilizing dictionaries within the medical insurance and medical records to properly display information to the team.</p>
