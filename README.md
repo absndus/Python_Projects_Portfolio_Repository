@@ -107,6 +107,6 @@
 
 <h2> 17. <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Project_17_Medical_Insurance_Python_Dictionaries.py">Project 17 Medical Insurances Using Python Dictionaries Script</a></h2>
 <br>
-<a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_16_Hurricanes_Analysis.png">
-  <image src="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_16_Hurricanes_Analysis.png" alt="Screenshot"></a>
+<a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_17_Medical_Insurance_Python_Dictionaries.png">
+  <image src="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_17_Medical_Insurance_Python_Dictionaries.png" alt="Screenshot"></a>
   <p><b>Description:</b> This Python project goes over utilizing dictionaries within the medical insurance and medical records to properly display information to the team.</p>
