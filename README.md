@@ -1,6 +1,4 @@
 # Python Projects Portfolio Repository
-[Python Project: Medical Insurance Using Strings and Loops Script](#3.4-Python-Project:-Medical-Insurance-Using-Strings-and-Loops)
-
 <h2>1. <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Project_1_Medical_Insurance.py">Project 1 Medical Insurance Script</a></h2>
 <br>
 <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_2_US_Medical_Insurance_Script.png">
@@ -8,7 +6,7 @@
   </a>
 <p><b>Description:</b> This program asks the user to enter their information about their age, sex, smoking status, BMI, numbers of children, and the name to output the insurance premium. This was part of the Code Academy mini-project. 
 </p>
-### 3.4 Python Project: Medical Insurance Using Strings and Loops Script <a class="anchor" id="3.4-Python-Project:-Medical-Insurance-Using-Strings-and-Loops"></a>
+
 <h2> 2. <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Project_2_Medical_Insurance_Functions.py">Project 2 Medical Insurance Custom Functions Script</a></h2>
 <br>
 <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_2_US_Medical_Insurance_Setup_Coding.png">
