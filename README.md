@@ -110,3 +110,9 @@
 <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_17_Medical_Insurance_Python_Dictionaries.png">
   <image src="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_17_Medical_Insurance_Python_Dictionaries.png" alt="Screenshot"></a>
   <p><b>Description:</b> This Python project goes over utilizing dictionaries within the medical insurance and medical records to properly display information to the team.</p>
+  
+<h2> 18. <a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Project_18_Performing_Linear_Regression_Scenario.py">Project 18 Performing Linear Regression To Find The Errors and the Prediciton of the Distance of the Bounce of an Item Would Go To Script</a></h2>
+<br>
+<a href="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_17_Medical_Insurance_Python_Dictionaries.png">
+  <image src="https://github.com/absndus/Python_Projects_Portfolio_Repository/blob/main/Projects%20Screenshots/Screenshot_Program_17_Medical_Insurance_Python_Dictionaries.png" alt="Screenshot"></a>
+  <p><b>Description:</b> This Python project goes over utilizing dictionaries within the medical insurance and medical records to properly display information to the team.</p>
