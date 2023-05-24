@@ -81,3 +81,11 @@ index = 0 #Initialize at 0.
 while index < len(highlighted_poems_details):
     print(f"The author {authors[index]}, wrote the book {titles[index]}, which was published in {str(years[index])}.")
     index += 1
+
+fridge_contents = {"egg": 12, "milk": 2, "apple": 6, "celery": 5}
+
+for variable1, variable2 in fridge_contents.items():
+    if variable1 in fridge_contents:
+        print(fridge_contents[variable1])
+    if variable2 in fridge_contents:
+        print(fridge_contents[variable2])
