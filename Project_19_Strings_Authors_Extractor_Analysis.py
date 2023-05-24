@@ -42,8 +42,6 @@ while index < len(highlighted_poems_details):
     print(highlighted_poems_details[index])
     index += 1
 
-print('\n') #Insert break.
-
 #Create empty lists for the authors, title, and year.
 authors = []
 titles = []
@@ -53,20 +51,33 @@ print(highlighted_poems_details[0][0]) #Get test title of book.
 print(highlighted_poems_details[0][1]) #Get test author of book.
 print(highlighted_poems_details[0][2]) #Get test year of book.
 
-#Create several for loops and append changes to authors, titles, and years for each for loop.
-for author in highlighted_poems_details:
-    authors.append(highlighted_poems_details[0][1])
+#Create several while loops and append changes to authors, titles, and years for each for loop.
+index = 0 #Initialize at 0.
+#While loop to split the title into the title empty list.
+while index < len(highlighted_poems_details):
+    titles.append(highlighted_poems_details[index][0])
+    index += 1
+print(titles) #Cleaned titles list.
+print(f"The total titles is {str(len(titles))}.")
+
+index = 0 #Initialize at 0.
+#Write loop to split the authors into the authors empty list.
+while index < len(highlighted_poems_details):
+    authors.append(highlighted_poems_details[index][1])
+    index += 1
 print(authors) #Cleaned authors list.
+print(f"The total authors is {str(len(authors))}.")
 
-for title in highlighted_poems_details:
-    titles.append(highlighted_poems_details[0][0])
-print(titles) #Cleaned book titles list.
+index = 0 #Initialize at 0.
+#Write loop to split the years into the years empty list.
+while index < len(highlighted_poems_details):
+    years.append(highlighted_poems_details[index][2])
+    index += 1
+print(years) #Cleaned years list.
+print(f"The total years is {str(len(years))}.")
 
-for year in highlighted_poems_details:
-    years.append(highlighted_poems_details[0][2])
-print(years) #Cleaned book years list.
-
-#Count the numbers of items in the book titles.
-print(f"The total numbers of books are {str(len(titles))}.")
-print(f"The total numbers of authors are {str(len(authors))}.")
-print(f"The total numbers of years are {str(len(years))}.")
+#Write a summary of the data set for the authors raw data list.
+index = 0 #Initialize at 0.
+while index < len(highlighted_poems_details):
+    print(f"The author {authors[index]}, wrote the book {titles[index]}, which was published in {str(years[index])}.")
+    index += 1
