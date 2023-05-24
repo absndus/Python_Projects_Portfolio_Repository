@@ -10,4 +10,4 @@
 
 #Perform the <enter the execution code function summary>.
 
-#Present the variables to the console as an output. 
+#Present the variables to the console as an output..
